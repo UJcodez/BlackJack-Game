@@ -1,5 +1,3 @@
-package coe318.lab5;
-
 import java.util.Scanner;
 
 public class SimpleUI implements UserInterface {
