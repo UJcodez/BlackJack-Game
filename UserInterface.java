@@ -1,5 +1,3 @@
-package coe318.lab5;
-
 public interface UserInterface {//DO NOT MODIFY
     /** Set the Blackjack game
      * this UserInterface belongs to.
